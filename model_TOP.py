@@ -11,6 +11,9 @@ import ipdb
 
 
 
+
+
+
 class DeepFc(nn.Module):  
     def __init__(self, input_dim = 900, output_dim = 96):
 
