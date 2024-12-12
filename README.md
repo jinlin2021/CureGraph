@@ -20,7 +20,7 @@ cd ./multimodal encoder
 
 python xx_encoder.py
 
-python xx_embedding.py
+python get_embedding_xx.py
 
 ```
 
