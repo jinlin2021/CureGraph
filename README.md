@@ -13,11 +13,6 @@ diseases among the elderly within the urban living circles of each neighborhood.
 - PyTorch == 2.2.2
 
 
-### Dependencies
-1. Install PyTorch 2.2.0 with the correct CUDA version.
-2. Use the ``pip install -r requirements.txt`` command to install all of the Python modules and packages used in this project.
-
-
 
 **Step-1** Contrastive learning to get multi-modal representation within the urban living circles:
 ```
