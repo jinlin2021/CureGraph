@@ -40,7 +40,7 @@ python train.sh
 
 ## Note
 
-The implemention is based on *[SimCLR] (https://github.com/google-research/simclr)* and *[SupCon] (https://github.com/google-research/google-research/tree/master/supcon)*
+The implementation of multimodal encoder is based on *[SimCLR] (https://github.com/google-research/simclr)* and *[SupCon] (https://github.com/google-research/google-research/tree/master/supcon)*
 
 
 
