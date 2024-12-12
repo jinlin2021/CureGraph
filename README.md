@@ -25,12 +25,16 @@ python xx_embedding.py
 ```
 
 
-**Step-2** Train SMGCN model on downstream elderly health prediction:
+**Step-2** Train SMGCN model, and conduct downstream elderly health prediction:
 
 
 ```
 python train.sh
 ```
+
+
+## Overall Framework 
+![OverallFramework](./CureGraph_framework.png "Overall framework")
 
 
 ## Note
@@ -40,7 +44,5 @@ The implementation of multimodal encoder is based on *[SimCLR] (https://github.c
 
 
 
-## Overall Framework 
-![OverallFramework](./CureGraph_framework.png "Overall framework")
 
 
