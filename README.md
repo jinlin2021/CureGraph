@@ -40,7 +40,7 @@ The implementation of multimodal encoder is based on *[SimCLR] (https://github.c
 
 
 
-
+## Overall Framework 
 ![OverallFramework](./CureGraph_framework.png "Overall framework")
 
 
