@@ -29,7 +29,7 @@ python get_embedding_xx.py
 
 
 ```
-python train.sh
+sh train.sh
 ```
 
 
