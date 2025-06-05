@@ -41,8 +41,19 @@ bash train.sh
 
 The implementation of multimodal encoder is based on *[SimCLR] (https://github.com/google-research/simclr)* and *[SupCon] (https://github.com/google-research/google-research/tree/master/supcon)*
 
+## Citation
 
-
-
+Please consider citing our paper in your publications, if our findings help your research.
+```bibtex
+@article{li2025curegraph,
+  title={CureGraph: Contrastive multi-modal graph representation learning for urban living circle health profiling and prediction},
+  author={Li, Jinlin and Zhou, Xiao},
+  journal={Artificial Intelligence},
+  volume={340},
+  pages={104278},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
 
